@@ -1,0 +1,8 @@
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\Settings.job
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\TelegramBot.exe
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\TelegramBot.dll
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\TelegramBot.deps.json
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\TelegramBot.runtimeconfig.json
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\TelegramBot.pdb
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\Newtonsoft.Json.dll
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\TelegramBotDemoFootball\Telegram.Bot.dll
